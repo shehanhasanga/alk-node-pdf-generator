@@ -1,0 +1,25 @@
+{
+  "name": "alk-node-pdf-generator",
+  "version": "1.0.0",
+  "description": "Pdf generator for node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shehanhasanga/alk-node-pdf-generator.git"
+  },
+  "dependencies": {
+    "jsreport-core": "^1.4.0",
+    "jsreport-fop-pdf": "^1.1.2",
+    "jszip": "^3.1.5",
+    "xslt-processor": "^0.11.5"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shehanhasanga/alk-node-pdf-generator/issues"
+  },
+  "homepage": "https://github.com/shehanhasanga/alk-node-pdf-generator#readme"
+}
