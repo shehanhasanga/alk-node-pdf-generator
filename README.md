@@ -4,10 +4,14 @@
 
 * Step 1 - install the pdf creator package using the following command
 
-            ``npm i alk-node-pdf-generator``
+
+        npm i alk-node-pdf-generator
+    
 * Step 2 - Add required packages
 
-        ``const pdfGenerator = require ('alk-node-pdf-generator')`` 
+
+        const pdfGenerator = require ('alk-node-pdf-generator')
+
         
 * Step 3 - Make the xml file and respective xsl file for fo transformation.        
 * Step 4 - call generatePdf with xml file path, xsl file path, output file path and file name. All there parameters should valid for the pdf generation
@@ -27,4 +31,6 @@
     
 * Step 6 - Run with node environment
 
-        ``node script.js``
+       node script.js
+        
+
