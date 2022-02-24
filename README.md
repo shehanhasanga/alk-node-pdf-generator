@@ -34,4 +34,7 @@
 
        node script.js
         
+* Sample files
 
+   * [Sample xml File](https://github.com/shehanhasanga/alk-node-pdf-generator/blob/main/sample.xml)
+    * [Sample xsl File](https://github.com/shehanhasanga/alk-node-pdf-generator/blob/main/sample.xsl)
