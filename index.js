@@ -1,10 +1,5 @@
 var fs = require('fs');
 var path = require('path')
-var jsreport = require('jsreport-core')({
-	tasks: {
-		timeout: 600000
-	}
-});
 var mkdirp = require('mkdirp');
 var xsltProcessor = require('xslt-processor')
 var xsltProcess = xsltProcessor.xsltProcess
@@ -12,8 +7,22 @@ var xmlParse = xsltProcessor.xmlParse
 
 var pdfGenerator = {
 
-	generatePdf: function (xmlFilePath, xslFilePath, outPutPath, outPutFileName) {
-
+	generatePdf: function (xmlFilePath, xslFilePath, outPutPath, outPutFileName, options) {
+		var timeout = 600000;
+		var maxOutputSize = (1024 * 1000 * 1000)
+		if(options) {
+			if (options.timeout) {
+				timeout = options.timeout
+			}
+			if (options.maxOutputSize) {
+				maxOutputSize = options.maxOutputSize
+			}
+		}
+		var jsreport = require('jsreport-core')({
+			tasks: {
+				timeout: timeout
+			}
+		});
 		return new Promise(function (resolve, reject) {
 			try {
 
@@ -43,7 +52,7 @@ var pdfGenerator = {
 											reject(err);
 										} else {
 											jsreport.use(require('jsreport-fop-pdf')({
-												maxOutputSize: (1024 * 1000 * 1000)
+												maxOutputSize: maxOutputSize
 											}))
 
 											jsreport.init().then(function () {

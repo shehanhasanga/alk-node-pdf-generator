@@ -17,7 +17,8 @@
 * Step 4 - call generatePdf with xml file path, xsl file path, output file path and file name. All there parameters should valid for the pdf generation
 
       
-            pdfGenerator.generatePdf('File:\\assessment.xml', 'File:\\Sample.xsl', 'D:\\outputDir',"FileName") .then(function () {
+            var options = {timeout:600000, maxOutputSize:(1024 * 1000 * 1000)}
+            pdfGenerator.generatePdf('File:\\assessment.xml', 'File:\\Sample.xsl', 'D:\\outputDir',"FileName",options) .then(function () {
                  console.log("pdf generated")
                   })
                   .catch(function (err) {
