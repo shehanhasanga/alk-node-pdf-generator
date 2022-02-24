@@ -1,0 +1,768 @@
+<?xml version="1.0"?>
+<root>
+  <assessment>
+    <candidate>1234 xxxx sssss</candidate>
+    <assessor>Mary Moore</assessor>
+    <jobprofile>Job profile 3</jobprofile>
+    <orgcode>Child 5@#$%,'"</orgcode>
+    <discipline>Electrician</discipline>
+    <isknowledgetest>0</isknowledgetest>
+    <supervisor/>
+    <email>aaaaaasdf.bdsdf@ccccc.com</email>
+    <scheduleassessmentdate>28 February 2020</scheduleassessmentdate>
+    <scheduleselfassessmentdate>21 February 2020</scheduleselfassessmentdate>
+    <candidatestrengths/>
+    <corecompetencies>
+      <corecompetency id="f85e0ba0-7c6a-11e7-87eb-85768c6d6780" containknowledges="true">
+        <description>Communicate job required information</description>
+        <assessmentscore>90</assessmentscore>
+        <tasks>
+          <task id="02efc865-5715-11ea-9da8-05932c82f687" criticality="2" containknowledges="true">
+            <description>Adjust Equipment</description>
+            <taskscore>100</taskscore>
+            <isNA>1</isNA>
+            <reasonNA>Machine is down</reasonNA>
+            <knowledges>
+              <knowledge id="02efc872-5715-11ea-9da8-05932c82f687" istestquestion="0" kid="82652210-77a3-11e7-bb97-616176fbc6fe">
+                <description>Describe the functionality of xxx.</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type/>
+                <answer>1</answer>
+                <note/>
+                <reasonNA>Machine is down</reasonNA>
+                <answers/>
+              </knowledge>
+              <knowledge id="02efc876-5715-11ea-9da8-05932c82f687" istestquestion="1" kid="d8eada50-0d31-11ea-8d75-4b3da6fa6a4f">
+                <description>111 visual question aaaa</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type>Single</type>
+                <answer>3</answer>
+                <note/>
+                <reasonNA/>
+                <answers>
+                  <answer id="d8ebc4b0-0d31-11ea-8d75-4b3da6fa6a4f">
+                    <description/>
+                    <iscorrect>1</iscorrect>
+                    <givenanswer>1</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType>png</fileType>
+                  </answer>
+                  <answer id="d8ebc4b1-0d31-11ea-8d75-4b3da6fa6a4f">
+                    <description/>
+                    <iscorrect>0</iscorrect>
+                    <givenanswer>0</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType>png</fileType>
+                  </answer>
+                </answers>
+              </knowledge>
+              <knowledge id="02efc877-5715-11ea-9da8-05932c82f687" istestquestion="1" kid="30690cd1-64d6-11e8-ba0c-ad2061604d73">
+                <description>aaaa ddd sss</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type>Single</type>
+                <answer>3</answer>
+                <note/>
+                <reasonNA/>
+                <answers/>
+              </knowledge>
+            </knowledges>
+            <performances>
+              <performance id="a0afc560-86a1-11e7-b2db-933865141288">
+                <description>Access normal and real time operating parameters sdf sdf sadfsd fsdf sdf asdf sdf asdf sdfsdfsdf sdfsdfsdf sdfsdff sfdfsdf sadfsdf sdfsds fsdfsfsdf sdfsdf sdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ffffffffffffffffffffsssssssssssssssss ss
+sdfsdf sdffffffffffsdf ssssssssssssssf sdfffffffffffffsdf ssssssssssssssfs fssssssssssssssss</description>
+                <answer>1</answer>
+                <note/>
+                <reasonNA>Machine is down</reasonNA>
+                <checklists/>
+              </performance>
+            </performances>
+            <regulatoryAgencies>
+              <regulatoryAgency id="e765ba80-dfb1-11e9-acb9-cd97de6dedb2">
+                <description>A11</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="ec2fecc0-dfb1-11e9-acb9-cd97de6dedb2">
+                <description>A12</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="ef68a990-dfb1-11e9-acb9-cd97de6dedb2">
+                <description>A13</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="f2e63790-dfb1-11e9-acb9-cd97de6dedb2">
+                <description>A14</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="f60b4550-dfb1-11e9-acb9-cd97de6dedb2">
+                <description>A15</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="f962d4c0-dfb1-11e9-acb9-cd97de6dedb2">
+                <description>A16</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="12af1e70-dfb2-11e9-acb9-cd97de6dedb2">
+                <description>A17</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="15cc6400-dfb2-11e9-acb9-cd97de6dedb2">
+                <description>A18</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="18ffa290-dfb2-11e9-acb9-cd97de6dedb2">
+                <description>A19</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="1ee6dd90-dfb2-11e9-acb9-cd97de6dedb2">
+                <description>A20</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="a98d5740-e14b-11e9-9947-ad84734cef13">
+                <description>AAA</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="2f6b18c0-de18-11e9-b365-bdc3f1e4d208">
+                <description>Adfsfs sdfsdf</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="5bd51240-ca6c-11e9-ba5e-fdf925c6231a">
+                <description>BSEE</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="552ef410-ca6c-11e9-ba5e-fdf925c6231a">
+                <description>Department of Transporation</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="9039bfe0-dfb1-11e9-acb9-cd97de6dedb2">
+                <description>New Reg</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="5fb495e0-d56e-11e9-b619-31aa3b7c353d">
+                <description>Regulatory Agency 1</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="677cc5e0-d56e-11e9-b619-31aa3b7c353d">
+                <description>Regulatory Agency 2</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="33e33360-de18-11e9-b365-bdc3f1e4d208">
+                <description>www</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="38e9f970-de18-11e9-b365-bdc3f1e4d208">
+                <description>www dd</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="3b982980-de18-11e9-b365-bdc3f1e4d208">
+                <description>www dd dfdf</description>
+              </regulatoryAgency>
+              <regulatoryAgency id="3dddfad0-de18-11e9-b365-bdc3f1e4d208">
+                <description>www dd dfdf dfs</description>
+              </regulatoryAgency>
+            </regulatoryAgencies>
+          </task>
+          <task id="02efc869-5715-11ea-9da8-05932c82f687" criticality="1" containknowledges="false">
+            <description>Conduct shift turnover meeting</description>
+            <taskscore>0</taskscore>
+            <isNA>1</isNA>
+            <reasonNA>Machine is down</reasonNA>
+            <knowledges>
+              <knowledge id="02efc870-5715-11ea-9da8-05932c82f687" istestquestion="0" kid="82652210-77a3-11e7-bb97-616176fbc6fe">
+                <description>Describe the functionality of xxx.</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type/>
+                <answer>1</answer>
+                <note/>
+                <reasonNA>Machine is down</reasonNA>
+                <answers/>
+              </knowledge>
+            </knowledges>
+            <performances>
+              <performance id="a0afc560-86a1-11e7-b2db-933865141288">
+                <description>Access normal and real time operating parameters sdf sdf sadfsd fsdf sdf asdf sdf asdf sdfsdfsdf sdfsdfsdf sdfsdff sfdfsdf sadfsdf sdfsds fsdfsfsdf sdfsdf sdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ffffffffffffffffffffsssssssssssssssss ss
+sdfsdf sdffffffffffsdf ssssssssssssssf sdfffffffffffffsdf ssssssssssssssfs fssssssssssssssss</description>
+                <answer>1</answer>
+                <note/>
+                <reasonNA>Machine is down</reasonNA>
+                <checklists/>
+              </performance>
+            </performances>
+            <regulatoryAgencies>
+              <regulatoryAgency id="5bd51240-ca6c-11e9-ba5e-fdf925c6231a">
+                <description>BSEE</description>
+              </regulatoryAgency>
+            </regulatoryAgencies>
+          </task>
+          <task id="02efc86a-5715-11ea-9da8-05932c82f687" criticality="3" containknowledges="true">
+            <description>Recognize how Diversity affects your work</description>
+            <taskscore>90</taskscore>
+            <isNA>0</isNA>
+            <reasonNA/>
+            <knowledges>
+              <knowledge id="02efc871-5715-11ea-9da8-05932c82f687" istestquestion="0" kid="601b12a0-7b95-11e7-badb-f5de2477071b">
+                <description>Describe a trend in process variables</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type/>
+                <answer>3</answer>
+                <note/>
+                <reasonNA/>
+                <answers/>
+              </knowledge>
+              <knowledge id="02efc878-5715-11ea-9da8-05932c82f687" istestquestion="1" kid="a7470fc0-0113-11ea-9b8c-db9100314ba8">
+                <description>Visual question 11111</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type>Single</type>
+                <answer>2</answer>
+                <note/>
+                <reasonNA/>
+                <answers>
+                  <answer id="a74a4410-0113-11ea-8bf7-175933402478">
+                    <description/>
+                    <iscorrect>0</iscorrect>
+                    <givenanswer>1</givenanswer>
+                    <isgivenanswercorrect>0</isgivenanswercorrect>
+                    <fileType>jpg</fileType>
+                  </answer>
+                  <answer id="a74ab940-0113-11ea-8bf7-175933402478">
+                    <description/>
+                    <iscorrect>1</iscorrect>
+                    <givenanswer>0</givenanswer>
+                    <isgivenanswercorrect>0</isgivenanswercorrect>
+                    <fileType>png</fileType>
+                  </answer>
+                  <answer id="a74c3fe0-0113-11ea-8bf7-175933402478">
+                    <description/>
+                    <iscorrect>0</iscorrect>
+                    <givenanswer>0</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType>png</fileType>
+                  </answer>
+                  <answer id="a74d0330-0113-11ea-8bf7-175933402478">
+                    <description/>
+                    <iscorrect>0</iscorrect>
+                    <givenanswer>0</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType>png</fileType>
+                  </answer>
+                </answers>
+              </knowledge>
+              <knowledge id="02efc879-5715-11ea-9da8-05932c82f687" istestquestion="1" kid="b830bfb0-023b-11ea-b352-c5ac18de9abc">
+                <description>Visual Question 4444</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type>Single</type>
+                <answer>3</answer>
+                <note/>
+                <reasonNA/>
+                <answers>
+                  <answer id="b831f830-023b-11ea-8052-83bc01bd49aa">
+                    <description/>
+                    <iscorrect>0</iscorrect>
+                    <givenanswer>0</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType>png</fileType>
+                  </answer>
+                  <answer id="b8321f40-023b-11ea-8052-83bc01bd49aa">
+                    <description/>
+                    <iscorrect>1</iscorrect>
+                    <givenanswer>1</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType>png</fileType>
+                  </answer>
+                  <answer id="b8326d60-023b-11ea-8052-83bc01bd49aa">
+                    <description/>
+                    <iscorrect>0</iscorrect>
+                    <givenanswer>0</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType>png</fileType>
+                  </answer>
+                </answers>
+              </knowledge>
+              <knowledge id="02efc87a-5715-11ea-9da8-05932c82f687" istestquestion="1" kid="a27dbca0-b359-11e7-949c-f51e68b3ee6e">
+                <description>Is true?</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type>Multiple</type>
+                <answer>3</answer>
+                <note/>
+                <reasonNA/>
+                <answers>
+                  <answer id="c9485ff0-fc7b-11e7-b461-cd866f6b6b97">
+                    <description>Aaab</description>
+                    <iscorrect>0</iscorrect>
+                    <givenanswer>0</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType/>
+                  </answer>
+                  <answer id="c9485ff1-fc7b-11e7-b461-cd866f6b6b97">
+                    <description>Aaa</description>
+                    <iscorrect>1</iscorrect>
+                    <givenanswer>1</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType/>
+                  </answer>
+                  <answer id="c9485ff2-fc7b-11e7-b461-cd866f6b6b97">
+                    <description>Bbbb</description>
+                    <iscorrect>1</iscorrect>
+                    <givenanswer>1</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType/>
+                  </answer>
+                </answers>
+              </knowledge>
+            </knowledges>
+            <performances>
+              <performance id="dd2e4620-b337-11e7-a440-451124ba0908">
+                <description>Analyze normal operations operating parameters to real time operating parameters</description>
+                <answer>3</answer>
+                <note/>
+                <reasonNA/>
+                <checklists>
+                  <checklist id="95b79030-8817-11e7-ac65-cfe233566b71">
+                    <description>checklist 3</description>
+                    <answer>3</answer>
+                    <reasonNA/>
+                  </checklist>
+                </checklists>
+              </performance>
+            </performances>
+            <regulatoryAgencies>
+              <regulatoryAgency id="552ef410-ca6c-11e9-ba5e-fdf925c6231a">
+                <description>Department of Transporation</description>
+              </regulatoryAgency>
+            </regulatoryAgencies>
+          </task>
+          <taskgroup id="bb62bbb0-1b25-11e8-99ef-f521cd270020">
+            <description>Shutdown Procedure</description>
+            <tasks>
+              <task id="02efc867-5715-11ea-9da8-05932c82f687" criticality="1" containknowledges="true">
+                <description>Execute house cleaning required for lose debris, rags and trash</description>
+                <taskscore>85</taskscore>
+                <isNA>1</isNA>
+                <reasonNA>Machine is down</reasonNA>
+                <knowledges>
+                  <knowledge id="02efc873-5715-11ea-9da8-05932c82f687" istestquestion="0" kid="82652210-77a3-11e7-bb97-616176fbc6fe">
+                    <description>Describe the functionality of xxx.</description>
+                    <isImageAttached>0</isImageAttached>
+                    <fileType/>
+                    <type/>
+                    <answer>1</answer>
+                    <note/>
+                    <reasonNA>Machine is down</reasonNA>
+                    <answers/>
+                  </knowledge>
+                  <knowledge id="02efc874-5715-11ea-9da8-05932c82f687" istestquestion="1" kid="0008e770-77bc-11e7-91f3-15cd0d7986d2">
+                    <description>temp</description>
+                    <isImageAttached>0</isImageAttached>
+                    <fileType/>
+                    <type>Single</type>
+                    <answer>2</answer>
+                    <note/>
+                    <reasonNA/>
+                    <answers>
+                      <answer id="755b9db0-fc6e-11e7-b461-cd866f6b6b97">
+                        <description>Red</description>
+                        <iscorrect>0</iscorrect>
+                        <givenanswer>0</givenanswer>
+                        <isgivenanswercorrect>1</isgivenanswercorrect>
+                        <fileType/>
+                      </answer>
+                      <answer id="755bebd0-fc6e-11e7-b461-cd866f6b6b97">
+                        <description>Green</description>
+                        <iscorrect>1</iscorrect>
+                        <givenanswer>0</givenanswer>
+                        <isgivenanswercorrect>0</isgivenanswercorrect>
+                        <fileType/>
+                      </answer>
+                      <answer id="755bebd1-fc6e-11e7-b461-cd866f6b6b97">
+                        <description>Yellow</description>
+                        <iscorrect>0</iscorrect>
+                        <givenanswer>1</givenanswer>
+                        <isgivenanswercorrect>0</isgivenanswercorrect>
+                        <fileType/>
+                      </answer>
+                    </answers>
+                  </knowledge>
+                  <knowledge id="02efc875-5715-11ea-9da8-05932c82f687" istestquestion="1" kid="f4ef8101-3c05-11e8-a992-650e9994e620">
+                    <description>Test Question1111</description>
+                    <isImageAttached>0</isImageAttached>
+                    <fileType/>
+                    <type>Single</type>
+                    <answer>3</answer>
+                    <note/>
+                    <reasonNA/>
+                    <answers>
+                      <answer id="f5587c00-3c05-11e8-a992-650e9994e620">
+                        <description>Red</description>
+                        <iscorrect>0</iscorrect>
+                        <givenanswer>0</givenanswer>
+                        <isgivenanswercorrect>1</isgivenanswercorrect>
+                        <fileType/>
+                      </answer>
+                      <answer id="f5587c01-3c05-11e8-a992-650e9994e620">
+                        <description>Green</description>
+                        <iscorrect>0</iscorrect>
+                        <givenanswer>0</givenanswer>
+                        <isgivenanswercorrect>1</isgivenanswercorrect>
+                        <fileType/>
+                      </answer>
+                      <answer id="f5587c02-3c05-11e8-a992-650e9994e620">
+                        <description>Purple</description>
+                        <iscorrect>1</iscorrect>
+                        <givenanswer>1</givenanswer>
+                        <isgivenanswercorrect>1</isgivenanswercorrect>
+                        <fileType/>
+                      </answer>
+                    </answers>
+                  </knowledge>
+                </knowledges>
+                <performances>
+                  <performance id="dd2e4620-b337-11e7-a440-451124ba0908">
+                    <description>Analyze normal operations operating parameters to real time operating parameters</description>
+                    <answer>1</answer>
+                    <note/>
+                    <reasonNA>Machine is down</reasonNA>
+                    <checklists>
+                      <checklist id="64fba840-0c3e-11e8-b9c2-73d7c059c5d2">
+                        <description>ccc1</description>
+                        <answer>1</answer>
+                        <reasonNA>Machine is down</reasonNA>
+                      </checklist>
+                      <checklist id="95b79030-8817-11e7-ac65-cfe233566b71">
+                        <description>checklist 3</description>
+                        <answer>1</answer>
+                        <reasonNA>Machine is down</reasonNA>
+                      </checklist>
+                      <checklist id="98c7dd70-8817-11e7-ac65-cfe233566b71">
+                        <description>checklist 4</description>
+                        <answer>1</answer>
+                        <reasonNA>Machine is down</reasonNA>
+                      </checklist>
+                    </checklists>
+                  </performance>
+                </performances>
+                <regulatoryAgencies>
+                  <regulatoryAgency id="5fb495e0-d56e-11e9-b619-31aa3b7c353d">
+                    <description>Regulatory Agency 1</description>
+                  </regulatoryAgency>
+                </regulatoryAgencies>
+              </task>
+              <task id="02efc868-5715-11ea-9da8-05932c82f687" criticality="2" containknowledges="false">
+                <description>New task temp</description>
+                <taskscore>0</taskscore>
+                <isNA>1</isNA>
+                <reasonNA>Machine is down</reasonNA>
+                <knowledges/>
+                <performances>
+                  <performance id="dd2e4620-b337-11e7-a440-451124ba0908">
+                    <description>Analyze normal operations operating parameters to real time operating parameters</description>
+                    <answer>1</answer>
+                    <note/>
+                    <reasonNA>Machine is down</reasonNA>
+                    <checklists/>
+                  </performance>
+                </performances>
+                <regulatoryAgencies>
+                  <regulatoryAgency id="5bd51240-ca6c-11e9-ba5e-fdf925c6231a">
+                    <description>BSEE</description>
+                  </regulatoryAgency>
+                  <regulatoryAgency id="552ef410-ca6c-11e9-ba5e-fdf925c6231a">
+                    <description>Department of Transporation</description>
+                  </regulatoryAgency>
+                </regulatoryAgencies>
+              </task>
+            </tasks>
+          </taskgroup>
+        </tasks>
+      </corecompetency>
+      <corecompetency id="68960e70-be5d-11e7-a304-a59aa61685b5" containknowledges="false">
+        <description>Leadership</description>
+        <assessmentscore>100</assessmentscore>
+        <tasks>
+          <task id="02ef5331-5715-11ea-9da8-05932c82f687" criticality="1" containknowledges="false">
+            <description>Adjust Equipment</description>
+            <taskscore>100</taskscore>
+            <isNA>0</isNA>
+            <reasonNA/>
+            <knowledges>
+              <knowledge id="02efa150-5715-11ea-9da8-05932c82f687" istestquestion="0" kid="601b12a0-7b95-11e7-badb-f5de2477071b">
+                <description>Describe a trend in process variables</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type/>
+                <answer>3</answer>
+                <note/>
+                <reasonNA/>
+                <answers/>
+              </knowledge>
+            </knowledges>
+            <performances>
+              <performance id="a0afc560-86a1-11e7-b2db-933865141288">
+                <description>Access normal and real time operating parameters sdf sdf sadfsd fsdf sdf asdf sdf asdf sdfsdfsdf sdfsdfsdf sdfsdff sfdfsdf sadfsdf sdfsds fsdfsfsdf sdfsdf sdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ffffffffffffffffffffsssssssssssssssss ss
+sdfsdf sdffffffffffsdf ssssssssssssssf sdfffffffffffffsdf ssssssssssssssfs fssssssssssssssss</description>
+                <answer>3</answer>
+                <note/>
+                <reasonNA/>
+                <checklists/>
+              </performance>
+            </performances>
+            <regulatoryAgencies/>
+          </task>
+        </tasks>
+      </corecompetency>
+      <corecompetency id="a8e936d0-8ccd-11e7-a409-89de9b170adc" containknowledges="true">
+        <description>Corporate Policy</description>
+        <assessmentscore>15</assessmentscore>
+        <tasks>
+          <task id="02efa158-5715-11ea-9da8-05932c82f687" criticality="1" containknowledges="false">
+            <description>Execute house cleaning required for lose debris, rags and trash</description>
+            <taskscore>100</taskscore>
+            <isNA>1</isNA>
+            <reasonNA>Machine is down</reasonNA>
+            <knowledges>
+              <knowledge id="02efa163-5715-11ea-9da8-05932c82f687" istestquestion="0" kid="601b12a0-7b95-11e7-badb-f5de2477071b">
+                <description>Describe a trend in process variables</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type/>
+                <answer>1</answer>
+                <note/>
+                <reasonNA>Machine is down</reasonNA>
+                <answers/>
+              </knowledge>
+              <knowledge id="02efa164-5715-11ea-9da8-05932c82f687" istestquestion="0" kid="82652210-77a3-11e7-bb97-616176fbc6fe">
+                <description>Describe the functionality of xxx.</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type/>
+                <answer>1</answer>
+                <note/>
+                <reasonNA>Machine is down</reasonNA>
+                <answers/>
+              </knowledge>
+            </knowledges>
+            <performances>
+              <performance id="1fd41570-86a8-11e7-8618-91694cbf4efa">
+                <description>performance 1</description>
+                <answer>1</answer>
+                <note/>
+                <reasonNA>Machine is down</reasonNA>
+                <checklists/>
+              </performance>
+              <performance id="a0afc560-86a1-11e7-b2db-933865141288">
+                <description>Access normal and real time operating parameters sdf sdf sadfsd fsdf sdf asdf sdf asdf sdfsdfsdf sdfsdfsdf sdfsdff sfdfsdf sadfsdf sdfsds fsdfsfsdf sdfsdf sdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ffffffffffffffffffffsssssssssssssssss ss
+sdfsdf sdffffffffffsdf ssssssssssssssf sdfffffffffffffsdf ssssssssssssssfs fssssssssssssssss</description>
+                <answer>1</answer>
+                <note/>
+                <reasonNA>Machine is down</reasonNA>
+                <checklists>
+                  <checklist id="95b79030-8817-11e7-ac65-cfe233566b71">
+                    <description>checklist 3</description>
+                    <answer>1</answer>
+                    <reasonNA>Machine is down</reasonNA>
+                  </checklist>
+                  <checklist id="9bdfa4c0-8817-11e7-ac65-cfe233566b71">
+                    <description>checklist 5</description>
+                    <answer>1</answer>
+                    <reasonNA>Machine is down</reasonNA>
+                  </checklist>
+                  <checklist id="98c7dd70-8817-11e7-ac65-cfe233566b71">
+                    <description>checklist 4</description>
+                    <answer>1</answer>
+                    <reasonNA>Machine is down</reasonNA>
+                  </checklist>
+                </checklists>
+              </performance>
+            </performances>
+            <regulatoryAgencies/>
+          </task>
+          <task id="02efa159-5715-11ea-9da8-05932c82f687" criticality="2" containknowledges="true">
+            <description>Adjust Equipment</description>
+            <taskscore>15</taskscore>
+            <isNA>0</isNA>
+            <reasonNA/>
+            <knowledges>
+              <knowledge id="02efa161-5715-11ea-9da8-05932c82f687" istestquestion="0" kid="1ce79380-7868-11e7-bc77-9b15c4d6d28b">
+                <description>Temp?</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type/>
+                <answer>2</answer>
+                <note/>
+                <reasonNA/>
+                <answers/>
+              </knowledge>
+              <knowledge id="02efa165-5715-11ea-9da8-05932c82f687" istestquestion="1" kid="c6d06910-81cf-11e7-b03b-e7230935f469">
+                <description>If heavy hydrocarbon components are present, they must be separated from the gas xxx.</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type>Multiple</type>
+                <answer>2</answer>
+                <note/>
+                <reasonNA/>
+                <answers/>
+              </knowledge>
+              <knowledge id="02efa166-5715-11ea-9da8-05932c82f687" istestquestion="1" kid="0008e770-77bc-11e7-91f3-15cd0d7986d2">
+                <description>temp</description>
+                <isImageAttached>0</isImageAttached>
+                <fileType/>
+                <type>Single</type>
+                <answer>3</answer>
+                <note/>
+                <reasonNA/>
+                <answers>
+                  <answer id="755b9db0-fc6e-11e7-b461-cd866f6b6b97">
+                    <description>Red</description>
+                    <iscorrect>0</iscorrect>
+                    <givenanswer>0</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType/>
+                  </answer>
+                  <answer id="755bebd0-fc6e-11e7-b461-cd866f6b6b97">
+                    <description>Green</description>
+                    <iscorrect>1</iscorrect>
+                    <givenanswer>1</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType/>
+                  </answer>
+                  <answer id="755bebd1-fc6e-11e7-b461-cd866f6b6b97">
+                    <description>Yellow</description>
+                    <iscorrect>0</iscorrect>
+                    <givenanswer>0</givenanswer>
+                    <isgivenanswercorrect>1</isgivenanswercorrect>
+                    <fileType/>
+                  </answer>
+                </answers>
+              </knowledge>
+            </knowledges>
+            <performances>
+              <performance id="a0afc560-86a1-11e7-b2db-933865141288">
+                <description>Access normal and real time operating parameters sdf sdf sadfsd fsdf sdf asdf sdf asdf sdfsdfsdf sdfsdfsdf sdfsdff sfdfsdf sadfsdf sdfsds fsdfsfsdf sdfsdf sdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ffffffffffffffffffffsssssssssssssssss ss
+sdfsdf sdffffffffffsdf ssssssssssssssf sdfffffffffffffsdf ssssssssssssssfs fssssssssssssssss</description>
+                <answer>2</answer>
+                <note/>
+                <reasonNA/>
+                <checklists/>
+              </performance>
+              <performance id="dd2e4620-b337-11e7-a440-451124ba0908">
+                <description>Analyze normal operations operating parameters to real time operating parameters</description>
+                <answer>2</answer>
+                <note/>
+                <reasonNA/>
+                <checklists/>
+              </performance>
+              <performance id="1fd41570-86a8-11e7-8618-91694cbf4efa">
+                <description>performance 1</description>
+                <answer>2</answer>
+                <note/>
+                <reasonNA/>
+                <checklists/>
+              </performance>
+            </performances>
+            <regulatoryAgencies/>
+          </task>
+          <taskgroup id="8bf40620-1b27-11e8-99ef-f521cd270020">
+            <description>Meetingsxxx</description>
+            <tasks>
+              <task id="02efa156-5715-11ea-9da8-05932c82f687" criticality="3" containknowledges="true">
+                <description>Conduct shift turnover meeting</description>
+                <taskscore>15</taskscore>
+                <isNA>1</isNA>
+                <reasonNA>Machine is down</reasonNA>
+                <knowledges>
+                  <knowledge id="02efa162-5715-11ea-9da8-05932c82f687" istestquestion="0" kid="601b12a0-7b95-11e7-badb-f5de2477071b">
+                    <description>Describe a trend in process variables</description>
+                    <isImageAttached>0</isImageAttached>
+                    <fileType/>
+                    <type/>
+                    <answer>1</answer>
+                    <note/>
+                    <reasonNA>Machine is down</reasonNA>
+                    <answers/>
+                  </knowledge>
+                  <knowledge id="02efa167-5715-11ea-9da8-05932c82f687" istestquestion="1" kid="ec7f3ef0-0113-11ea-9b8c-db9100314ba8">
+                    <description>Visual question 22222</description>
+                    <isImageAttached>1</isImageAttached>
+                    <fileType>jpg</fileType>
+                    <type>Multiple</type>
+                    <answer>2</answer>
+                    <note/>
+                    <reasonNA/>
+                    <answers/>
+                  </knowledge>
+                  <knowledge id="02efa168-5715-11ea-9da8-05932c82f687" istestquestion="1" kid="b830bfb0-023b-11ea-b352-c5ac18de9abc">
+                    <description>Visual Question 4444</description>
+                    <isImageAttached>0</isImageAttached>
+                    <fileType/>
+                    <type>Single</type>
+                    <answer>3</answer>
+                    <note/>
+                    <reasonNA/>
+                    <answers>
+                      <answer id="b831f830-023b-11ea-8052-83bc01bd49aa">
+                        <description/>
+                        <iscorrect>0</iscorrect>
+                        <givenanswer>0</givenanswer>
+                        <isgivenanswercorrect>1</isgivenanswercorrect>
+                        <fileType>png</fileType>
+                      </answer>
+                      <answer id="b8321f40-023b-11ea-8052-83bc01bd49aa">
+                        <description/>
+                        <iscorrect>1</iscorrect>
+                        <givenanswer>1</givenanswer>
+                        <isgivenanswercorrect>1</isgivenanswercorrect>
+                        <fileType>png</fileType>
+                      </answer>
+                      <answer id="b8326d60-023b-11ea-8052-83bc01bd49aa">
+                        <description/>
+                        <iscorrect>0</iscorrect>
+                        <givenanswer>0</givenanswer>
+                        <isgivenanswercorrect>1</isgivenanswercorrect>
+                        <fileType>png</fileType>
+                      </answer>
+                    </answers>
+                  </knowledge>
+                </knowledges>
+                <performances>
+                  <performance id="a0afc560-86a1-11e7-b2db-933865141288">
+                    <description>Access normal and real time operating parameters sdf sdf sadfsd fsdf sdf asdf sdf asdf sdfsdfsdf sdfsdfsdf sdfsdff sfdfsdf sadfsdf sdfsds fsdfsfsdf sdfsdf sdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ffffffffffffffffffffsssssssssssssssss ss
+sdfsdf sdffffffffffsdf ssssssssssssssf sdfffffffffffffsdf ssssssssssssssfs fssssssssssssssss</description>
+                    <answer>1</answer>
+                    <note/>
+                    <reasonNA>Machine is down</reasonNA>
+                    <checklists/>
+                  </performance>
+                </performances>
+                <regulatoryAgencies>
+                  <regulatoryAgency id="5bd51240-ca6c-11e9-ba5e-fdf925c6231a">
+                    <description>BSEE</description>
+                  </regulatoryAgency>
+                  <regulatoryAgency id="552ef410-ca6c-11e9-ba5e-fdf925c6231a">
+                    <description>Department of Transporation</description>
+                  </regulatoryAgency>
+                  <regulatoryAgency id="5fb495e0-d56e-11e9-b619-31aa3b7c353d">
+                    <description>Regulatory Agency 1</description>
+                  </regulatoryAgency>
+                  <regulatoryAgency id="677cc5e0-d56e-11e9-b619-31aa3b7c353d">
+                    <description>Regulatory Agency 2</description>
+                  </regulatoryAgency>
+                </regulatoryAgencies>
+              </task>
+              <task id="02efa157-5715-11ea-9da8-05932c82f687" criticality="1" containknowledges="false">
+                <description>New task temp</description>
+                <taskscore>0</taskscore>
+                <isNA>1</isNA>
+                <reasonNA>Machine is down</reasonNA>
+                <knowledges/>
+                <performances>
+                  <performance id="dd2e4620-b337-11e7-a440-451124ba0908">
+                    <description>Analyze normal operations operating parameters to real time operating parameters</description>
+                    <answer>1</answer>
+                    <note/>
+                    <reasonNA>Machine is down</reasonNA>
+                    <checklists/>
+                  </performance>
+                </performances>
+                <regulatoryAgencies/>
+              </task>
+            </tasks>
+          </taskgroup>
+        </tasks>
+      </corecompetency>
+    </corecompetencies>
+    <opportunityfordevelopment/>
+  </assessment>
+  <imagedir>D:/shehan/cms/server/routes/templates/images</imagedir>
+  <assessmentdir>C:/Work/CMSAttachments/template/01fe8a90-5715-11ea-9da8-05932c82f687</assessmentdir>
+  <visualquestionimagedir>C:/Work/CMSAttachments/knowledge/</visualquestionimagedir>
+  <logopath>D:/shehan/cms/server/public/images/header/</logopath>
+  <theme>blue</theme>
+  <templateName>regenerate</templateName>
+</root>
